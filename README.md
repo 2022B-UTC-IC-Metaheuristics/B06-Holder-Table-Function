@@ -1,5 +1,5 @@
 # B06-Holder-Table-Function
-La función Holder Table tiene varios mínimos locales, lo que hace que sea difícil para los algoritmos de optimización encontrar el mínimo global. Además de los mínimos locales, la función de mesa de soporte también tiene regiones con superficies planas. Es continua y diferenciable en todas partes, lo que significa que se puede calcular el gradiente de la función en cualquier punto.
+La función Holder Table tiene varios mínimos locales, lo que hace que sea difícil para los algoritmos de optimización encontrar el mínimo global. Además de los mínimos locales, la función Holder Table también tiene regiones con superficies planas. Es continua y diferenciable en todas partes, lo que significa que se puede calcular el gradiente de la función en cualquier punto.
 
 ## Entrada
 $$(x_1, x_2)$$
