@@ -1,5 +1,5 @@
 # B06-Holder-Table-Function
-La función Tabla de soporte tiene muchos mínimos locales, con cuatro mínimos globales.
+La función Holder Table tiene varios mínimos locales, lo que hace que sea difícil para los algoritmos de optimización encontrar el mínimo global. Además de los mínimos locales, la función de mesa de soporte también tiene regiones con superficies planas. Es continua y diferenciable en todas partes, lo que significa que se puede calcular el gradiente de la función en cualquier punto.
 
 ## Entrada
 $$(x_1, x_2)$$
@@ -27,4 +27,4 @@ Además de su uso como problema de prueba en la optimización, la función de Ho
 La función de Holder Table también se ha utilizado en la generación de paisajes fractales y en la creación de modelos de terrenos. En este contexto, la función se utiliza para generar paisajes con características fractales y para simular la formación de terrenos naturales.
 
 ## Acerca de
-En 1987, el matemático J. Moser propuso una función matemática llamada "función de mesa de soporte" como un problema de optimización. En ese momento, Moser estaba trabajando en problemas de dinámica no lineal y necesitaba un problema de optimización que pudiera evaluar la estabilidad numérica de los algoritmos de seguimiento de órbitas que son utilizados en la dinámica no lineal para estudiar el comportamiento de los sistemas dinámicos. 
+En 1987, el matemático J. Moser propuso una función matemática llamada "Holder Table" como un problema de optimización. En ese momento, Moser estaba trabajando en problemas de dinámica no lineal y necesitaba un problema de optimización que pudiera evaluar la estabilidad numérica de los algoritmos de seguimiento de órbitas que son utilizados en la dinámica no lineal para estudiar el comportamiento de los sistemas dinámicos. 
