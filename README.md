@@ -2,6 +2,7 @@
 La función Tabla de soporte tiene muchos mínimos locales, con cuatro mínimos globales.
 
 ## Entrada
+$$(x_1, x_2)$$
 La función suele evaluarse sobre el cuadrado xi ∈ [-10, 10], para todo i = 1, 2. Esta función fue diseñada específicamente para presentar múltiples mínimos locales y regiones con superficies planas, lo que hace que sea un problema de optimización desafiante.
 
 ![Descripción de la imagen](./picture.png)
