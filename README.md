@@ -1,6 +1,6 @@
 # B06-Holder-Table-Function
 La función Tabla de soporte tiene muchos mínimos locales, con cuatro mínimos globales.
-
+!(picture.jpg)
 La función suele evaluarse sobre el cuadrado xi ∈ [-10, 10], para todo i = 1, 2.
 ## Función objetivo
 ```math
