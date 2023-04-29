@@ -28,3 +28,6 @@ La función de Holder Table también se ha utilizado en la generación de paisaj
 
 ## Acerca de
 En 1987, el matemático J. Moser propuso una función matemática llamada "Holder Table" como un problema de optimización. En ese momento, Moser estaba trabajando en problemas de dinámica no lineal y necesitaba un problema de optimización que pudiera evaluar la estabilidad numérica de los algoritmos de seguimiento de órbitas que son utilizados en la dinámica no lineal para estudiar el comportamiento de los sistemas dinámicos. 
+
+## Mas informacion
+[https://www.sfu.ca/~ssurjano/holder.html](https://www.sfu.ca/~ssurjano/holder.html)
