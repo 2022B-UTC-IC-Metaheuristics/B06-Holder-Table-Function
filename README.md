@@ -1,7 +1,8 @@
 # B06-Holder-Table-Function
 La función Tabla de soporte tiene muchos mínimos locales, con cuatro mínimos globales.
-![] (picture.jpg)
-La función suele evaluarse sobre el cuadrado xi ∈ [-10, 10], para todo i = 1, 2.
+La función suele evaluarse sobre el cuadrado xi ∈ [-10, 10], para todo i = 1, 2. Esta función fue diseñada específicamente para presentar múltiples mínimos locales y regiones con superficies planas, lo que hace que sea un problema de optimización desafiante.
+
+![Descripción de la imagen](./picture.png)
 ## Función objetivo
 ```math
 f(x) = sin(x_1) cos(x_2) exp(|1-\frac{(\sqrt {x_1^2+x_2^2})}{ π}|)
