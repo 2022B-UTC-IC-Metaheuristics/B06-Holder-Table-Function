@@ -5,7 +5,7 @@ La función suele evaluarse sobre el cuadrado xi ∈ [-10, 10], para todo i = 1,
 ![Descripción de la imagen](./picture.png)
 ## Función objetivo
 ```math
-f(x) = sin(x_1) cos(x_2) exp(|1-\frac{(\sqrt {x_1^2+x_2^2})}{ π}|)
+f(x) = -|sin(x_1) cos(x_2) exp(|1-\frac{\sqrt {x_1^2+x_2^2}}{ π}|)|
 ```
 ## Mínimo global
 La función de Holder Table es conocida por tener varios mínimos locales y un único mínimo global. El valor del mínimo global es -19.2085 y se alcanza en los siguientes puntos:
@@ -24,4 +24,4 @@ Además de su uso como problema de prueba en la optimización, la función de Ho
 La función de Holder Table también se ha utilizado en la generación de paisajes fractales y en la creación de modelos de terrenos. En este contexto, la función se utiliza para generar paisajes con características fractales y para simular la formación de terrenos naturales.
 
 ## Acerca de
-En 1987, el matemático J. Moser propuso una función matemática llamada "función de mesa de soporte" como un problema de optimización. En ese momento, Moser estaba trabajando en problemas de dinámica no lineal y necesitaba un problema de optimización que pudiera evaluar la estabilidad numérica de los algoritmos de seguimiento de órbitas en este campo.
+En 1987, el matemático J. Moser propuso una función matemática llamada "función de mesa de soporte" como un problema de optimización. En ese momento, Moser estaba trabajando en problemas de dinámica no lineal y necesitaba un problema de optimización que pudiera evaluar la estabilidad numérica de los algoritmos de seguimiento de órbitas que son utilizados en la dinámica no lineal para estudiar el comportamiento de los sistemas dinámicos. 
